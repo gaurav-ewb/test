@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Tarun",
+        "email": "tarun.ewb@gmail.com",
+        "password": "secrate",
+        "role": "admin",
+        "id": 1
+    },
+    {
+        "Name": "john",
+        "email": "jhonkelvy34@gmail.com",
+        "password": "11",
+        "role": "editor",
+        "id": 2
+    },
+    {
+        "Name": "kethrien",
+        "email": "ketherineDE@gmail.com",
+        "password": "123",
+        "role": "editor",
+        "id": 3
+    },
+    {
+        "Name": "example",
+        "email": "example123@gmail.com",
+        "password": "123",
+        "role": "user",
+        "id": 4
+    },
+    {
+        "Name": "test",
+        "email": "testing@gmail.com",
+        "password": "000",
+        "role": "user",
+        "id": 5
+    },
+    {
+        "Name": "demo",
+        "email": "demo123@gmail.com",
+        "password": "11",
+        "role": "editor",
+        "id": 6
+    }
+]
